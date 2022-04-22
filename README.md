@@ -1,5 +1,5 @@
 # SimpleCPUs
- My CPU exercises in 2020 winter vavation
+ My CPU exercises in 2020 winter vacation
 
 mipsCPU1是一个多周期demo，支持7条指令：addu，subu，ori，lw，sw，beq，jal。
 花了大概3-4天搞这个。
